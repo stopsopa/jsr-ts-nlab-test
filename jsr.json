@@ -4,6 +4,6 @@
   "exports": {
     ".": "./jsr-ts-nlab-test.ts",
     "./isObject": "./isObject.ts",
-    "./unique": "./src/unique.ts"
+    "./unique": "./unique.ts"
   }
 }
