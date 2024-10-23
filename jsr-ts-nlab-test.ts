@@ -1,5 +1,5 @@
-import isObject from "./src/isObject.ts";
+import isObject from "./isObject.ts";
 
-import unique from "./src/unique";
+import unique from "./unique.ts";
 
 export { isObject, unique };
