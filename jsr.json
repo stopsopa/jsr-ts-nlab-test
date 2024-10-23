@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "exports": {
     ".": "./jsr-ts-nlab-test.ts",
-    "./isObject": "./src/isObject.ts",
+    "./isObject": "./isObject.ts",
     "./unique": "./src/unique.ts"
   }
 }
