@@ -1,6 +1,6 @@
 {
   "name": "@stopsopa/jsr-ts-nlab-test",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "exports": {
     ".": "./jsr-ts-nlab-test.ts",
     "./isObject": "./src/isObject.ts",
