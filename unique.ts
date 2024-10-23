@@ -1,4 +1,4 @@
-export default function unique(pattern: string): string {
+export default function unique(pattern?: string): string {
   // node.js require('crypto').randomBytes(16).toString('hex');
 
   pattern || (pattern = "xyxyxy");
